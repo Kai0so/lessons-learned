@@ -18,4 +18,10 @@ body {
 
 #licoes_aprendidas {
     line-height: normal;
+    display: inline-block;
+}
+
+#licoes_a_aprender {
+    line-height: normal;
+    display: inline-block;
 }
