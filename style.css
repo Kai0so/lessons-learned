@@ -8,11 +8,12 @@ body {
 }
 
 #titulo {
+    display: inline-block;
     color: green;
 }
 
 #minha_foto {
-    margin-top: 50px;
+    margin-top: 150px;
     width: 300px;
 }
 
@@ -27,3 +28,7 @@ body {
 }
 
 #rodape {}
+
+#navigation {
+    display: inline-block;
+}
